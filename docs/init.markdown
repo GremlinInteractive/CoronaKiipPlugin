@@ -47,8 +47,6 @@ __[Listener]__ This function is here for backwards compatibility only. it is not
     -- Initialize the Kiip library
     Kiip.init(
     {
-        licenseKey = "Insert_Your_License_Key_Here",
-        testMode = true,
         appKey = "app_key_generated_from_kiip_here",
         appSecret = "app_secret_generated_from_kiip_here",  
         email = "test@test.com",
