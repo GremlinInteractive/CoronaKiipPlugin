@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>74DC8D1C-93A9-4848-A1A3-1BAC39A8A5C2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Kiip_Plugin</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8994F5A0-1AC9-4270-A39D-0AC5A424490B</key>
+		<string>https://bitbucket.org/Danny_Glover/kiip_plugin.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ios/Kiip_Plugin.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8994F5A0-1AC9-4270-A39D-0AC5A424490B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/Danny_Glover/kiip_plugin.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8994F5A0-1AC9-4270-A39D-0AC5A424490B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8994F5A0-1AC9-4270-A39D-0AC5A424490B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Plugin_Source</string>
+		</dict>
+	</array>
+</dict>
+</plist>

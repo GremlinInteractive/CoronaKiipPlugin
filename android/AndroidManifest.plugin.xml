@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="plugin.kiip"
+          android:versionCode="1"
+          android:versionName="1.0">
+
+          <application android:name="plugin.kiip.CoronaApplication" 
+		android:label="Kiip_Plugin"
+	             android:hardwareAccelerated="true"
+	             android:debuggable="true"></application>
+	
+</manifest>
